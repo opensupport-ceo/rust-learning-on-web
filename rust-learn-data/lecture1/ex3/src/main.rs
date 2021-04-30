@@ -57,6 +57,11 @@ fn main() {
 }
 
 */
+
+extern crate separator;
+
+use separator::Separatable;
+
 use std::io;
 
 fn main(){
@@ -79,8 +84,15 @@ fn main(){
             },
         };
 
-        println!("The result is {:>0width$}", in_num, width=20);
+        let formatted_num = in_num.separated_string();
+
+        println!("The result is {:0>20}", formatted_num);
 
     }
 
 }
+//
+// Formatted print.
+// refer:=> https://docs.rs/pad/0.1.6/pad/
+//
+//
