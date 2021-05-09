@@ -1,0 +1,12 @@
+/home/bini/gitHub___/opensupport-ceo/rust-learning-on-web/rust-learn-data/lecture1/ex3/target/rls/debug/deps/separator-577d8459a1a8a1af.rmeta: /home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/lib.rs /home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/macros.rs /home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/float/mod.rs /home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/float/separatable.rs /home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/float/fixed_place_separatable.rs /home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/signed_int.rs /home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/unsigned_int.rs /home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/usize.rs
+
+/home/bini/gitHub___/opensupport-ceo/rust-learning-on-web/rust-learn-data/lecture1/ex3/target/rls/debug/deps/separator-577d8459a1a8a1af.d: /home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/lib.rs /home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/macros.rs /home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/float/mod.rs /home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/float/separatable.rs /home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/float/fixed_place_separatable.rs /home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/signed_int.rs /home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/unsigned_int.rs /home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/usize.rs
+
+/home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/lib.rs:
+/home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/macros.rs:
+/home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/float/mod.rs:
+/home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/float/separatable.rs:
+/home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/float/fixed_place_separatable.rs:
+/home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/signed_int.rs:
+/home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/unsigned_int.rs:
+/home/bini/.cargo/registry/src/github.com-1ecc6299db9ec823/separator-0.3.1/src/usize.rs:

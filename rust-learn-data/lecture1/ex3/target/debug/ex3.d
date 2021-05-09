@@ -1,0 +1,1 @@
+/home/bini/gitHub___/opensupport-ceo/rust-learning-on-web/rust-learn-data/lecture1/ex3/target/debug/ex3: /home/bini/gitHub___/opensupport-ceo/rust-learning-on-web/rust-learn-data/lecture1/ex3/src/main.rs
