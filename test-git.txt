@@ -6,5 +6,5 @@ test for gitlens of vscode.
 test for freeNanum as co-author for github.com.
 test for opensupprt-dev as co-author for github.com.
 
-test for multi-profile using git config user.name and user.email
-
+test for multi-profile as freeNanum using "git config user.name and user.email"
+test for multi-profile as opensupport-dev using "git config --local user.name and user.email"
