@@ -3,5 +3,5 @@ test for opensupprt-ceo for github.com.
 
 test for gitlens of vscode.
 
-test for opensupprt-dev for github.com.
+test for freeNanum for github.com.
 
